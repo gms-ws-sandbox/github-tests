@@ -18,7 +18,6 @@
       "enabled": true
     },
     "enableRenovate": true,
-    "extends": ["config:base"],
-    "extends": ["github>whitesource/merge-confidence:beta"]
+    "extends": ["config:base", "github>whitesource/merge-confidence:beta"]
   }
 }
