@@ -18,6 +18,6 @@
       "enabled": true
     },
     "enableRenovate": true,
-    "extends": ["local>github-tests/gms-settings"]
+    "extends": ["local>github-tests/gms-settings.json"]
   }
 }
