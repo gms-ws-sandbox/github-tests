@@ -14,10 +14,7 @@
     "minSeverityLevel": "LOW"
   },
   "remediateSettings": {
-    "workflowRules": {
-      "enabled": true
-    },
     "enableRenovate": true,
-    "extends": ["local>gms-settings.json"]
+    "extends": ["local>gms-ws-sandbox/github-tests:gms-settings"]
   }
 }
